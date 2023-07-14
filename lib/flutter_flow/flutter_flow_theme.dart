@@ -181,107 +181,107 @@ class ThemeTypography extends Typography {
 
   final FlutterFlowTheme theme;
 
-  String get displayLargeFamily => 'Outfit';
+  String get displayLargeFamily => 'Kanit';
   TextStyle get displayLarge => GoogleFonts.getFont(
-        'Outfit',
+        'Kanit',
         color: theme.primaryText,
         fontWeight: FontWeight.normal,
         fontSize: 64.0,
       );
-  String get displayMediumFamily => 'Outfit';
+  String get displayMediumFamily => 'Kanit';
   TextStyle get displayMedium => GoogleFonts.getFont(
-        'Outfit',
+        'Kanit',
         color: theme.primaryText,
         fontWeight: FontWeight.normal,
         fontSize: 44.0,
       );
-  String get displaySmallFamily => 'Outfit';
+  String get displaySmallFamily => 'Kanit';
   TextStyle get displaySmall => GoogleFonts.getFont(
-        'Outfit',
+        'Kanit',
         color: theme.primaryText,
         fontWeight: FontWeight.w600,
         fontSize: 36.0,
       );
-  String get headlineLargeFamily => 'Outfit';
+  String get headlineLargeFamily => 'Kanit';
   TextStyle get headlineLarge => GoogleFonts.getFont(
-        'Outfit',
+        'Kanit',
         color: theme.primaryText,
         fontWeight: FontWeight.w600,
         fontSize: 32.0,
       );
-  String get headlineMediumFamily => 'Outfit';
+  String get headlineMediumFamily => 'Kanit';
   TextStyle get headlineMedium => GoogleFonts.getFont(
-        'Outfit',
+        'Kanit',
         color: theme.primaryText,
         fontWeight: FontWeight.normal,
         fontSize: 24.0,
       );
-  String get headlineSmallFamily => 'Outfit';
+  String get headlineSmallFamily => 'Kanit';
   TextStyle get headlineSmall => GoogleFonts.getFont(
-        'Outfit',
+        'Kanit',
         color: theme.primaryText,
         fontWeight: FontWeight.w500,
         fontSize: 24.0,
       );
-  String get titleLargeFamily => 'Outfit';
+  String get titleLargeFamily => 'Kanit';
   TextStyle get titleLarge => GoogleFonts.getFont(
-        'Outfit',
+        'Kanit',
         color: theme.primaryText,
         fontWeight: FontWeight.w500,
         fontSize: 22.0,
       );
-  String get titleMediumFamily => 'Readex Pro';
+  String get titleMediumFamily => 'Kanit';
   TextStyle get titleMedium => GoogleFonts.getFont(
-        'Readex Pro',
+        'Kanit',
         color: theme.info,
         fontWeight: FontWeight.normal,
         fontSize: 18.0,
       );
-  String get titleSmallFamily => 'Readex Pro';
+  String get titleSmallFamily => 'Kanit';
   TextStyle get titleSmall => GoogleFonts.getFont(
-        'Readex Pro',
+        'Kanit',
         color: theme.info,
         fontWeight: FontWeight.w500,
         fontSize: 16.0,
       );
-  String get labelLargeFamily => 'Readex Pro';
+  String get labelLargeFamily => 'Kanit';
   TextStyle get labelLarge => GoogleFonts.getFont(
-        'Readex Pro',
+        'Kanit',
         color: theme.secondaryText,
         fontWeight: FontWeight.normal,
         fontSize: 16.0,
       );
-  String get labelMediumFamily => 'Readex Pro';
+  String get labelMediumFamily => 'Kanit';
   TextStyle get labelMedium => GoogleFonts.getFont(
-        'Readex Pro',
+        'Kanit',
         color: theme.secondaryText,
         fontWeight: FontWeight.normal,
         fontSize: 14.0,
       );
-  String get labelSmallFamily => 'Readex Pro';
+  String get labelSmallFamily => 'Kanit';
   TextStyle get labelSmall => GoogleFonts.getFont(
-        'Readex Pro',
+        'Kanit',
         color: theme.secondaryText,
         fontWeight: FontWeight.normal,
         fontSize: 12.0,
       );
-  String get bodyLargeFamily => 'Readex Pro';
+  String get bodyLargeFamily => 'Kanit';
   TextStyle get bodyLarge => GoogleFonts.getFont(
-        'Readex Pro',
+        'Kanit',
         color: theme.primaryText,
         fontWeight: FontWeight.normal,
         fontSize: 16.0,
       );
-  String get bodyMediumFamily => 'Readex Pro';
+  String get bodyMediumFamily => 'Kanit';
   TextStyle get bodyMedium => GoogleFonts.getFont(
-        'Readex Pro',
+        'Kanit',
         color: theme.primaryText,
         fontWeight: FontWeight.normal,
         fontSize: 14.0,
       );
-  String get bodySmallFamily => 'Readex Pro';
+  String get bodySmallFamily => 'Kanit';
   TextStyle get bodySmall => GoogleFonts.getFont(
-        'Readex Pro',
+        'Kanit',
         color: theme.primaryText,
         fontWeight: FontWeight.normal,
         fontSize: 12.0,

@@ -46,7 +46,7 @@ class _BehindPageWidgetState extends State<BehindPageWidget> {
           title: Text(
             'behindPage',
             style: FlutterFlowTheme.of(context).headlineMedium.override(
-                  fontFamily: 'Outfit',
+                  fontFamily: 'Kanit',
                   color: Colors.white,
                   fontSize: 22.0,
                 ),

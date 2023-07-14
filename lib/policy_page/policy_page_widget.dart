@@ -46,7 +46,7 @@ class _PolicyPageWidgetState extends State<PolicyPageWidget> {
           title: Text(
             'policyPage',
             style: FlutterFlowTheme.of(context).headlineMedium.override(
-                  fontFamily: 'Outfit',
+                  fontFamily: 'Kanit',
                   color: Colors.white,
                   fontSize: 22.0,
                 ),
